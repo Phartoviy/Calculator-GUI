@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>Calc2.png</file>
+        <file>information-300x300.jpg</file>
+    </qresource>
+</RCC>
